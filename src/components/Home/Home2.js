@@ -68,6 +68,15 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
+                  href="https://www.linkedin.com/in/rocco-caliandro/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons">
+                  <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
                   href="https://github.com/myDelevop"
                   target="_blank"
                   rel="noreferrer"
@@ -84,16 +93,6 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillFacebook />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/rocco-caliandro/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
                 </a>
               </li>
               <li className="social-icons">
