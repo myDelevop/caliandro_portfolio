@@ -25,17 +25,17 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java, Python, SQL, Cloud Engineering and so on... </b>
+                <b className="purple"> SQL, SSIS, SQL, Java, Python, Cloud Engineering </b>and so on...
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Technologies and Products </b> 
+                in areas related to{" "}
                 <b className="purple">
-                  Data Engineering.
-                </b>
+                  Data Engineering
+                </b>.
               </i>
               <br />
               <br />
